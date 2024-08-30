@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(./RobotoCondensed-MediumItalic.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(./RobotoCondensed-ExtraBoldItalic.ttf);
+    font-weight: 800;
+}
+
